@@ -29,3 +29,6 @@ class Game:
     def draw(self):
         self.win.blit(self.bg,(0,0))
         pygame.display.update()
+
+
+        # test
